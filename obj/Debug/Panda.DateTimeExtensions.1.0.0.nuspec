@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Panda.DateTimeExtensions</id>
+    <version>1.0.0</version>
+    <title>Panda.DateTimeExtensions</title>
+    <authors>Lujun</authors>
+    <owners>Lujun</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/l1044635791/Panda.DateTimeExtensions</projectUrl>
+    <description>panda datetime extensions for .net core</description>
+    <tags>datetime extensions</tags>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/Users/lujun/Code/Panda.DateTimeExtensions/bin/Debug/netcoreapp2.1/Panda.DateTimeExtensions.dll" target="lib/netcoreapp2.1/Panda.DateTimeExtensions.dll" />
+  </files>
+</package>

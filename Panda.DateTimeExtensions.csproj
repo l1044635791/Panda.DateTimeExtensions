@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <PackageId>Panda.DateTimeExtensions</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>Lujun</Authors>
+    <PackageProjectUrl>https://github.com/l1044635791/Panda.DateTimeExtensions</PackageProjectUrl>
+    <PackageTags>datetime extensions</PackageTags>
+    <Title>Panda.DateTimeExtensions</Title>
+    <Owners>Lujun</Owners>
+    <Description>panda datetime extensions for .net core</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <ReleaseVersion>1.0.0</ReleaseVersion>
+    <SynchReleaseVersion>false</SynchReleaseVersion>
+    <RootNamespace>Panda</RootNamespace>
+  </PropertyGroup>
+
+  </Project>
